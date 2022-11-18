@@ -7,3 +7,7 @@
 
 # ¿Que es el Open Source?
 # Dicho termino se refiere a la libre edicion de algun programa o sistema, el cual puede ser midificado y compartido por cualquier persona, ya que su diseño es de acceso publico
+
+# Comandos basicos de la terminal Unix (terminal de Mac o Ubuntu)
+# Los comandos basicos de Ubuntu son:
+ejelee
