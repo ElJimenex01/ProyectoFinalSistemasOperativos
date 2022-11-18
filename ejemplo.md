@@ -13,4 +13,17 @@ Dicho termino se refiere a la libre edicion de algun programa o sistema, el cual
 # 4. Comandos basicos de la terminal Unix (terminal de Mac o Ubuntu)
 Los comandos basicos de Ubuntu son:
 ejelee
-![hola](mile.jpg)
+
+# 5. Dispositivos de entrada/salida
+
+
+# 6. Procesos, ejemplo de algun algoritmo de planeacion
+
+
+# 7. Almacenamiento
+
+
+# 8. Jerarquia de Memoria
+
+
+# 9. 9. Ejemplos de Virtualización del CPU, Virtualización de Memoria, Concurrencia, Persistencia
