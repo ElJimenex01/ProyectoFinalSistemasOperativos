@@ -18,10 +18,10 @@ ejelee
 
 
 # 6. Procesos, ejemplo de algun algoritmo de planeacion
-eytale
+
 
 # 7. Almacenamiento
-![pelas](mile.jpg)
+
 
 # 8. Jerarquia de Memoria
 
