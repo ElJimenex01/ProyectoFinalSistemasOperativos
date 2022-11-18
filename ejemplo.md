@@ -26,4 +26,4 @@ ejelee
 # 8. Jerarquia de Memoria
 
 
-# 9. 9. Ejemplos de Virtualización del CPU, Virtualización de Memoria, Concurrencia, Persistencia
+# 9. Ejemplos de Virtualización del CPU, Virtualización de Memoria, Concurrencia, Persistencia
