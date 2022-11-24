@@ -19,6 +19,8 @@ Los dispositivos de entrada son aquellos dispositivos que introducen informacion
 Ademas de los dispositivos de entrada y salida tambien existen los dispositivos mixtos los cuales son aquellos que reciben y ademas introducen informacion en la computadora, un ejemplo seria una memoria USB, o una impresora inteligente.
 
 Dispositivos de entrada:
+
+
 ![Fallo](entrd.jpg)
 
 # 6. Procesos, ejemplo de algun algoritmo de planeacion
