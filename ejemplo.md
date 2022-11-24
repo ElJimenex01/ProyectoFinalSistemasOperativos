@@ -15,7 +15,7 @@ Los comandos basicos de Ubuntu son:
 ejelee
 
 # 5. Dispositivos de entrada/salida
-
+Los dispositivos
 
 # 6. Procesos, ejemplo de algun algoritmo de planeacion
 
