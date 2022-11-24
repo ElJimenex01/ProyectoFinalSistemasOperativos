@@ -15,7 +15,11 @@ Los comandos basicos de Ubuntu son:
 ejelee
 
 # 5. Dispositivos de entrada/salida
-Los dispositivos
+Los dispositivos de entrada son aquellos dispositivos que introducen informacion en la computadora como un mouse, un teclado. Por otro lado los dispositivos de salida son los dispositivos a los que la computadora envia informacion, como lo seria por ejemplo una impresora.
+Ademas de los dispositivos de entrada y salida tambien existen los dispositivos mixtos los cuales son aquellos que reciben y ademas introducen informacion en la computadora, un ejemplo seria una memoria USB, o una impresora inteligente.
+
+Dispositivos de entrada:
+![Fallo](entrd.jpg)
 
 # 6. Procesos, ejemplo de algun algoritmo de planeacion
 
