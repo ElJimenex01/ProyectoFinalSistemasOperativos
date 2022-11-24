@@ -29,6 +29,11 @@ Dispositivos de salida:
 
 ![Fallo](salida.jpg)
 
+
+Dispositivos mixtos:
+
+![Fallo](mixtos.jpg)
+
 # 6. Procesos, ejemplo de algun algoritmo de planeacion
 
 
