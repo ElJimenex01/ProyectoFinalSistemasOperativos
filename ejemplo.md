@@ -23,6 +23,12 @@ Dispositivos de entrada:
 
 ![Fallo](entrd.jpg)
 
+
+Dispositivos de salida:
+
+
+![Fallo](salida.jpg)
+
 # 6. Procesos, ejemplo de algun algoritmo de planeacion
 
 
