@@ -13,7 +13,6 @@ Dicho termino se refiere a la libre edicion de algun programa o sistema, el cual
 # 4. Comandos basicos de la terminal Unix (terminal de Mac o Ubuntu)
 Los comandos basicos de Ubuntu son:
 ps -aux: Nos muestra en tiempo real los procesos en ejecucucion.
-
 sudo ps -U Ricardo: Muestra los procesos asignados al usuario Ricardo.
 
 sudo pgrep VBoxClient: Se encarga de retornar el ID de los procesos
@@ -25,7 +24,7 @@ nombre.
 top: top y htop listan los procesos en tiempo real con una serie de
 atributos.
 
-top -u Ricardo // los procesos del usuario Ricardo.
+top -u Ricardo: los procesos del usuario Ricardo.
 
 htop: para mostrar los procesos de manera horizontal.
 
