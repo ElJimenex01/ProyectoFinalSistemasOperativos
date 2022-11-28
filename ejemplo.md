@@ -61,7 +61,21 @@ Dispositivos mixtos:
 
 
 # 7. Almacenamiento
+El almacenamiento es una pieza fundamental para el optimo funcionamiento de un dispositivo, ya que este nos proporciona mas capacidad en nuestro dispositivo, asi como una mayor velocidad. La memoria se divide en distintas unnidades, de las cuales las mas comunes son los Megabyte, Gigabyte, y Terabyte, pero ¿son toodas las que existen?
 
+bit: Es la unidad minima representada por la letra b, la cual simplemente es un 0 o un 1.
+
+Byte(B): Es la primera unidad de almacenamiento que tiene sentido como tal, esta esta compuesta por 8 bits (un Byte es aproximadamente un caracter).
+
+Kilobyte(KB): Equivale a 1024 Bytes.
+
+Megabyte(MB): 1024 KB.
+
+Gigabyte(GB): 1024 MB.
+
+Terabyte(TB): 1024 GB.
+
+![Fallo](unidades.jpg)
 
 # 8. Jerarquia de Memoria
 Una buena jerarquia de memoria nos ayuda a mantener nuestra computadora en optimas condiciones, debido a que tiene una organizacion definida, y nos ayuda a tener mas espacio libre para el uso y velocidad de nuestro dispositivo.
