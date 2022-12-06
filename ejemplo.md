@@ -62,6 +62,9 @@ Dispositivos mixtos:
 ![Fallo](mixtos.jpg)
 
 # 6. Procesos, ejemplo de algun algoritmo de planeacion
+Dependiendo especialmente del sistema operativo en uso, a los procesos se les denomina como flujos de control, tareas, threads, o hilos, segun el contexto en el que se encuentren.
+
+Al ser ejecutado mas de unproceso de forma concurrente en el sistema, todos estos necesitan que el mismo sitema les proporcione una serie de recursos. El sistema operativo gracias a la UCP (Unidad Central de Proceso), asigna estos recursos en el orden adecuado, atendiendo a todas y cada una de las propiedades. Ademas de esto el sistema tambien realiza funciones de sincronizacion de los procesos en ejecucion, para que se ejecuten en un orden adecuado y segun la prioridad asignada.
 
 
 # 7. Almacenamiento
