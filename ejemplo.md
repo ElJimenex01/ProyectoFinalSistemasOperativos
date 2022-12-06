@@ -71,6 +71,13 @@ Es un subproceso de un proceso el cual consume recursos propios, sin embargo dep
 
 Un ejemplo de un proceso clasico seria al momento de usar Chrome, utilizando una pestaña de manera que unicamente se este utilizando una hebra. Al momento de abrir otra pestaña, Chrome no se volveria a cargar como proceso, sino que el programa ya convertido en proceso tendra dos hebras o hilos diferentes a su disposicion, por lo que el proceso sigue siendo el original.
 
+
+![Fallo](hebras.png)
+
+
+CSS Transición de los procesos
+
+
 # 7. Almacenamiento
 El almacenamiento es una pieza fundamental para el optimo funcionamiento de un dispositivo, ya que este nos proporciona mas capacidad en nuestro dispositivo, asi como una mayor velocidad. La memoria se divide en distintas unnidades, de las cuales las mas comunes son los Megabyte, Gigabyte, y Terabyte, pero ¿son toodas las que existen?
 
