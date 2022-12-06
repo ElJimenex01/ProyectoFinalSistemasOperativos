@@ -66,6 +66,8 @@ Dependiendo especialmente del sistema operativo en uso, a los procesos se les de
 
 Al ser ejecutado mas de unproceso de forma concurrente en el sistema, todos estos necesitan que el mismo sitema les proporcione una serie de recursos. El sistema operativo gracias a la UCP (Unidad Central de Proceso), asigna estos recursos en el orden adecuado, atendiendo a todas y cada una de las propiedades. Ademas de esto el sistema tambien realiza funciones de sincronizacion de los procesos en ejecucion, para que se ejecuten en un orden adecuado y segun la prioridad asignada.
 
+![Fallo](mixtos.jpg)
+
 
 # 7. Almacenamiento
 El almacenamiento es una pieza fundamental para el optimo funcionamiento de un dispositivo, ya que este nos proporciona mas capacidad en nuestro dispositivo, asi como una mayor velocidad. La memoria se divide en distintas unnidades, de las cuales las mas comunes son los Megabyte, Gigabyte, y Terabyte, pero ¿son toodas las que existen?
