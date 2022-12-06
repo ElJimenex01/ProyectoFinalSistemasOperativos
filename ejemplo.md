@@ -66,8 +66,10 @@ Dependiendo especialmente del sistema operativo en uso, a los procesos se les de
 
 Al ser ejecutado mas de unproceso de forma concurrente en el sistema, todos estos necesitan que el mismo sitema les proporcione una serie de recursos. El sistema operativo gracias a la UCP (Unidad Central de Proceso), asigna estos recursos en el orden adecuado, atendiendo a todas y cada una de las propiedades. Ademas de esto el sistema tambien realiza funciones de sincronizacion de los procesos en ejecucion, para que se ejecuten en un orden adecuado y segun la prioridad asignada.
 
-![Fallo](mixtos.jpg)
+Hebra o Hilo (Threads)
+Es un subproceso de un proceso el cual consume recursos propios, sin embargo depende del proceso padre que lo ah ejecutado. Estas representan un metodo software y eficacia de los sistemas operativos. las hebras de un mismo proceso comarten recursos, como memoria, archivos, recursos hardware, entre otros.
 
+Un ejemplo de un proceso clasico seria al momento de usar Chrome, utilizando una pestaña de manera que unicamente se este utilizando una hebra. Al momento de abrir otra pestaña, Chrome no se volveria a cargar como proceso, sino que el programa ya convertido en proceso tendra dos hebras o hilos diferentes a su disposicion, por lo que el proceso sigue siendo el original.
 
 # 7. Almacenamiento
 El almacenamiento es una pieza fundamental para el optimo funcionamiento de un dispositivo, ya que este nos proporciona mas capacidad en nuestro dispositivo, asi como una mayor velocidad. La memoria se divide en distintas unnidades, de las cuales las mas comunes son los Megabyte, Gigabyte, y Terabyte, pero ¿son toodas las que existen?
