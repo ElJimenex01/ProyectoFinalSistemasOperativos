@@ -16,6 +16,39 @@ Dicho termino se refiere a la libre edicion de algun programa o sistema, el cual
 
 ## 3. Historia de los sistemas operativos Mac OS, Ubuntu y Windows
 
+### Primer nivel
+Surgen en los años cincuenta del siglo XX, creando sistemas operativos basicos que utilizaban el lenguaje de programacion FORTRAN, y se programaban en tarjetas perforadas.
+
+### Segundo nivel
+- Aparece en los años sesenta del siglo XX aumentando el rendimiento de la utilidad del procesador.
+
+- Surgen los procesos on-line conectado directamente a la computadora, y off-line que es la conexion a traves de otros dispositivos.
+
+- Aparecen las tecnicas de **buffering** (Cuando se almacenan datos en memorias intermedias o buffer.) y **spooling** (Cuando se almacenan datos en discos magneticos.).
+
+### Tercer nivel
+- Aparece en los años setenta del siglo XX.
+
+- Surge la multiprogramacion (ejecucion de varios programas en un mismo procesador.).
+
+
+![Fallo](multipr.jpg)
+
+
+### Cuarto nivel
+- Aparece en los años ochenta del siglo XX.
+
+- Se mejora la seguridad por medio de la conexion en paralelo de varias computadoras, que comparten memoria, busses y terminales.
+
+- La velocidad de los procesos aumenta con el uso sel multiproceso (Computadoras que tienen mas de un procesador.).
+
+### Quinto nivel
+- Se generan sistemas operativos para sistemas moviles.
+
+
+![Fallo](moviles.jpg)
+
+
 ## 4. Comandos basicos de la terminal Unix (terminal de Mac o Ubuntu)
 Los comandos basicos de Ubuntu son:
 
@@ -39,6 +72,7 @@ atributos.
 - **kill pid**: Termina o mata un proceso con un identificador que se le asigne.
 
 - **renice 935 10**: Cambia la prioridad de un proceso y los valores pueden variar de -20 a 19, Siendo 19 la prioridad mas baja.
+
 
 ## 5. Dispositivos de entrada/salida
 Los dispositivos de entrada son aquellos dispositivos que introducen informacion en la computadora como un mouse, un teclado. Por otro lado los dispositivos de salida son los dispositivos a los que la computadora envia informacion, como lo seria por ejemplo una impresora.
