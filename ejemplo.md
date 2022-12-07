@@ -94,6 +94,9 @@ Se le denominan transiciones a los cambios de estado en los que se puede encontr
 
 - **Algoritmo FIFO (First In First Out) o FCFS (First Come First Serve).** Los procesos son asignados por el UCP en funcion de una cola FIFO. Es decir que se ejecuta el primer proceso en llegar de manera completa. A continuacion se ejecuta por completo el siguiente proceso que hay en la cola FIFo, siguiendo asi hasta terminar con el ultimo proceso. Este algoritmo se utiliza normalmente para la cuestion de trabajos en colas de impresion, respecto a los trabajos que van llegando a la impresora.
 
+
+![Fallo](fifo.jpg)
+
 # 7. Almacenamiento
 El almacenamiento es una pieza fundamental para el optimo funcionamiento de un dispositivo, ya que este nos proporciona mas capacidad en nuestro dispositivo, asi como una mayor velocidad. La memoria se divide en distintas unnidades, de las cuales las mas comunes son los Megabyte, Gigabyte, y Terabyte, pero ¿son toodas las que existen?
 
