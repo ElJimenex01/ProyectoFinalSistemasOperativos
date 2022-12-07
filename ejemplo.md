@@ -75,7 +75,7 @@ Un ejemplo de un proceso clasico seria al momento de usar Chrome, utilizando una
 ![Fallo](hebras.png)
 
 
-<strong>Transición de los procesos</strong>  ddf
+<strong>Transición de los procesos</strong> 
 
 
 # 7. Almacenamiento
