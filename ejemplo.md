@@ -76,6 +76,9 @@ Un ejemplo de un proceso clasico seria al momento de usar Chrome, utilizando una
 
 
 <big><big>Transición de los procesos</big></big> 
+Una vez que un programa se ah convertido en proceso, atraviesa varias fases o estados hasta ser finalizado.
+Se le denominan transiciones a los cambios de estado en los que se puede encontrar un proceso.
+
 
 
 # 7. Almacenamiento
