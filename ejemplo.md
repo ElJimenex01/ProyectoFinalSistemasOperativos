@@ -78,10 +78,19 @@ Un ejemplo de un proceso clasico seria al momento de usar Chrome, utilizando una
 ## Transición de los procesos
 
 Una vez que un programa se ah convertido en proceso, atraviesa varias fases o estados hasta ser finalizado.
-
 Se le denominan transiciones a los cambios de estado en los que se puede encontrar un proceso.
 
+**Transición A:** Se da cuando el programa en ejecucion necesita algun elemento, como señal o dato, para poder continuar con la ejecucion.
 
+**Transición B:** Esta ocurre cuando el proceso ha utilizado el tiempo asignado por la UCP o procesador, para su ejecucion, y tiene que dejar paso al siguiente proceso.
+
+**Transición C:** Ocurre cuando el proceso ya preparado pasa al proceso de ejecucion, lo que quiere decir que al proceso le llega una nueva disposicion de tiempo de la CPU para ser ejecutado.
+
+**Transición D:** Es cuando el proceso pasa de estar bloqueeado a preparado. Es cuando el proceso recibe una orden que se estaba esperando para poder pasar al estado de preparado, y tras la transición, pasar a estado de ejecucion.
+
+## Algoritmos de Planificación
+
+- Round robin
 
 # 7. Almacenamiento
 El almacenamiento es una pieza fundamental para el optimo funcionamiento de un dispositivo, ya que este nos proporciona mas capacidad en nuestro dispositivo, asi como una mayor velocidad. La memoria se divide en distintas unnidades, de las cuales las mas comunes son los Megabyte, Gigabyte, y Terabyte, pero ¿son toodas las que existen?
