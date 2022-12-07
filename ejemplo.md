@@ -171,3 +171,12 @@ Localidad Temporal: dado que en algun momento la posicion de una memoria particu
 
 
 ## 9. Ejemplos de Virtualización del CPU, Virtualización de Memoria, Concurrencia, Persistencia
+
+- **Virtualizacion del CPU**
+Es la caracteristica de hardware que se puede encontrar en todos los procesadores modernos, y permite a un unico procesador actuar como si fueran varios procesadores individuales. Permitiendo que el sistema operativo sea capaz de utilizar la potencia del procesadorde manera mas eficiente.
+
+
+![Fallo](virtualizacion.jpg)
+
+
+## He terminado mi examen final
