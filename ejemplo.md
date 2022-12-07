@@ -179,4 +179,10 @@ Es la caracteristica de hardware que se puede encontrar en todos los procesadore
 ![Fallo](virtualizacion.jpg)
 
 
+- **Virtualizacion de memoria**
+La idea es crear una memoria de funcion compartida mediante una distribucion en la red para que los distintos equipos puedan utilizarla.
+
+
+![Fallo](virtualizacionmem.jpg)
+
 ## He terminado mi examen final
